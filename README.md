@@ -1,4 +1,4 @@
 # Learnign-Angular
 
-Documentation by course "Learning Angular". 
+Documentation of course "Learning Angular". 
 src file.
